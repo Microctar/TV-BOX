@@ -2,4 +2,9 @@
 Amlogic TV Box image and dts
 
 
-model: mecool m8s pro l 3G
+Model: 
+
+mecool m8s pro l 3G
+
+
+m201-s
